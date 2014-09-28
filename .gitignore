@@ -1,0 +1,16 @@
+*.log
+Web_Deploy/*
+!Web_Deploy/Web_Deploy.wdproj
+*/obj/*/*
+*/bin/*/*
+*/*/obj/*/*
+*/*/bin/*/*
+*.user
+Web/Bin
+Web/App_Data
+TestResults
+*.suo
+
+/WebApplication/obj
+/WebApplication/bin
+/Web
